@@ -1,18 +1,18 @@
 {
   "fields": {
-    "categories": "Categories",
-    "products": "Products",
-    "scope": "Scope",
-    "channel": "Channel"
+    "categories": "Категорії",
+    "products": "Продукти",
+    "scope": "Область застосування",
+    "channel": "Канал"
   },
   "links": {
-    "categories": "Categories",
-    "products": "Products"
+    "categories": "Категорії",
+    "products": "Продукти"
   },
   "labels": {
-    "setAsMainImage": "Set as Main Image"
+    "setAsMainImage": "Встановити як основне зображення"
   },
   "exceptions": {
-    "scopeForTheImageMarkedAsMainCannotBeChanged": "Scope for the image marked as Main cannot be changed."
+    "scopeForTheImageMarkedAsMainCannotBeChanged": "Область застосування для зображення, позначене як Main не може бути змінено."
   }
 }

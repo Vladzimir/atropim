@@ -1,8 +1,8 @@
 {
   "fields": {
-    "productCanLinkedWithNonLeafCategories": "Allow to link Products to non-leaf categories."
+    "productCanLinkedWithNonLeafCategories": "Дозволити зв’язувати товари з нелистовими категоріями."
   },
   "queueManager": {
-    "updatingOwnershipInformation": "Updating ownership information"
+    "updatingOwnershipInformation": "Оновлення інформації про власника"
   }
 }
